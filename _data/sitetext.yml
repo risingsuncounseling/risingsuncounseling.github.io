@@ -119,7 +119,7 @@ en: &DEFAULT_EN
 #          - url: https://linkedin.com
 #            icon: fab fa-linkedin-in
       - name: "Julie DeLuccy"
-        role: "LCADC, CCS, LCSW"
+        role: "LCADC, CCS, LCSW<p>I'm a mental health professional with over 20 years experience serving disadvantaged populations in various settings in New Jersey. I recently pursued my Masters of Animal Science and Behaviors to help enhance my profession as it develops and places greater emphasis on the human-animal connection and animal-assisted interventions. My intentions are to help merge the two worlds of human and animal welfare for the mutual benefit of both."
         image: assets/img/team/julie.jpg
         social:
           - url: https://www.linkedin.com/in/julie-deluccy-05b30a242
