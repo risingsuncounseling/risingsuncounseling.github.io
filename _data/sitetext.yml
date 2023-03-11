@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-paw
       - title: "Animal-Assisted Therapy"
         desc: "We understand that the bond between humans and their pets is a special one. That's why we offer a safe and supportive environment where you can work towards improving your own mental health while also improving the well-being of your pet. Our team of dedicated professionals is here to provide holistic care that addresses both!"
-        icon: fab fa-hand-holding-heart
+        icon: fas fa-hand-holding-heart
 
   portfolio:
     title: "Portfolio"
