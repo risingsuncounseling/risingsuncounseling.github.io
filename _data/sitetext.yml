@@ -75,7 +75,7 @@ en: &DEFAULT_EN
     section: about
 
   clients:
-    section: clients
+    section: 
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
