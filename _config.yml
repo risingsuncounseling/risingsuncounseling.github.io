@@ -21,9 +21,9 @@ title      : Rising Sun Counseling Services
 email      : risngsuncounselingservices@gmail.com #this is also the email contact forms will go to
 description: "Rising Sun Counseling Services provides mental health services for humans and health and welfare services for furry friends great and small!"
 author     : Your Name
-# logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+logo:     #optional, defaults to site title
+  path: assets\img\logo.png
+  height: 92 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
