@@ -9,7 +9,7 @@ caption:
   subtitle: Photo
   thumbnail: assets/img/portfolio/03-alpaca-thumb.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Alpacas have a unique and adorable way of expressing themselves through their ears. Alpacas can rotate their ears 90 degrees in any direction, which allows them to communicate with each other and express their mood. For example, if an alpaca's ears are erect and facing forward, it means they are alert and curious. If their ears are flattened against their head, it means they are feeling threatened or scared. Additionally, when an alpaca is happy and relaxed, their ears will be slightly tilted outwards.
 
 {:.list-inline}
 - Date: December 2022
