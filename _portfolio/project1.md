@@ -9,7 +9,7 @@ caption:
   subtitle: Photo
   thumbnail: assets/img/portfolio/01-alpaca-thumb.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Alpacas are social animals and have a strong sense of community. In their natural habitat, alpacas live in herds and rely on each other for protection and companionship. They are known to hum, softly cluck, and even kiss each other on the cheeks to communicate and show affection. Interestingly, alpacas also have a communal dung pile that they use as a shared toilet. This helps them keep their living area clean and reduce the spread of parasites and diseases.
 
 {:.list-inline}
 - Date: December 2022
