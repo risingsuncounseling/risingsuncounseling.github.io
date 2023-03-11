@@ -18,7 +18,7 @@ url    : "https://risingsuncounselingservices.com" # the base hostname & protoco
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : Rising Sun Counseling Services
-email      : risngsuncounselingservices@gmail.com #this is also the email contact forms will go to
+#email      :  #this is also the email contact forms will go to
 description: "Rising Sun Counseling Services provides mental health services for humans and health and welfare services for furry friends great and small!"
 author     : Your Name
 logo:     #optional, defaults to site title
