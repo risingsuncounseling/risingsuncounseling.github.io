@@ -2,7 +2,7 @@
 title: Alpacas
 subtitle: Adorable, aren't they?.
 image: assets/img/portfolio/01-alpaca.jpg
-alt: Al
+alt: 
 
 caption:
   title: Alpacas
