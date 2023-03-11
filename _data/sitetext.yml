@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "What can we do to help? Glad you asked!"
     section: services
     list:
       - title: "Mental Health"
