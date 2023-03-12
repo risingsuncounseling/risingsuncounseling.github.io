@@ -20,7 +20,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 title      : Rising Sun Counseling Services
 #email      :  #this is also the email contact forms will go to
 description: "Rising Sun Counseling Services provides mental health services for humans and health and welfare services for furry friends great and small!"
-author     : Your Name
+author     : Julie DeLuccy
 logo:     #optional, defaults to site title
   path: assets\img\logo.png
   height: 52 #height in px, defaults to 52px
