@@ -110,7 +110,7 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "yes" #"yes/no"
     list:
       - title: "Clemson Alumni"
         url: https://clemson.alumniclubs.us/philadelphia/
