@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Animal-Assisted Activities"
-    text: "Discover the transformative power of Animal-Assisted Activities (AAA) in therapy. Engaging with trained animals, such as alpacas, dogs, and horses, can provide emotional support, reduce stress, and alleviate anxiety or depression. These activities offer physical benefits, including lowered blood pressure and enhanced motor skills through grooming, walking, and play. Animals serve as social bridges, fostering communication and socialization for individuals who struggle in these areas. Additionally, AAA stimulates cognition, boosting attention, memory, and problem-solving skills. Guided by trained professionals, Animal-Assisted Activities ensure safety and cater to specific needs, unlocking the incredible therapeutic potential of human-animal connections."
+    text: "Discover the transformative power of Animal-Assisted Activities (AAA) in therapy. Engaging with trained animals can provide emotional support, reduce stress, and alleviate anxiety or depression. These activities offer physical benefits, including lowered blood pressure and enhanced motor skills through grooming, walking, and play. Animals serve as social bridges, fostering communication and socialization for individuals who struggle in these areas. Additionally, AAA stimulates cognition, boosting attention, memory, and problem-solving skills. Guided by trained professionals, Animal-Assisted Activities ensure safety and cater to specific needs, unlocking the incredible therapeutic potential of human-animal connections."
     section: portfolio
     closebutton: "Close Project"
 
