@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fas fa-hand-holding-heart
 
   portfolio:
-    title: "Portfolio"
-    text: "Alpacas can form strong bonds with humans and enjoy being around people. With proper handling and socialization, alpacas can become friendly and affectionate animals that enjoy interacting with humans. They are known to be curious animals and will often approach people to investigate and interact with them. In addition, alpacas are gentle animals that are generally safe for children and adults to be around. They are a popular choice for animal-assisted therapy programs, where they are used to provide comfort and companionship to people in need."
+    title: "Animal-Assisted Activities"
+    text: "Discover the transformative power of Animal-Assisted Activities (AAA) in therapy. Engaging with trained animals, such as alpacas, dogs, and horses, can provide emotional support, reduce stress, and alleviate anxiety or depression. These activities offer physical benefits, including lowered blood pressure and enhanced motor skills through grooming, walking, and play. Animals serve as social bridges, fostering communication and socialization for individuals who struggle in these areas. Additionally, AAA stimulates cognition, boosting attention, memory, and problem-solving skills. Guided by trained professionals, Animal-Assisted Activities ensure safety and cater to specific needs, unlocking the incredible therapeutic potential of human-animal connections."
     section: portfolio
     closebutton: "Close Project"
 
