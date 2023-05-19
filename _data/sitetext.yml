@@ -114,22 +114,22 @@ en: &DEFAULT_EN
     list:
       - title: "Clemson Alumni"
         url: https://clemson.alumniclubs.us/philadelphia/
-        logo: assets/img/clients/philly.png
+        logo: assets/img/clients/clem.png
       - title: "Crisis Response Canines"
         url: https://www.crisiscanines.org/
-        logo: assets/img/clients/k9crisis.png
+        logo: assets/img/clients/k9.png
       - title: "RPlus Collaborative Animal Training"
         url: https://www.rpluscollaborative.com/
-        logo: assets/img/clients/rplus.png
+        logo: assets/img/clients/rplus2.png
       - title: "Clemson Alumni"
         url: https://clemson.alumniclubs.us/philadelphia/
-        logo: assets/img/clients/philly.png
+        logo: assets/img/clients/clem.png
       - title: "Crisis Response Canines"
         url: https://www.crisiscanines.org/
-        logo: assets/img/clients/k9crisis.png
+        logo: assets/img/clients/k9.png
       - title: "RPlus Collaborative Animal Training"
         url: https://www.rpluscollaborative.com/
-        logo: assets/img/clients/rplus.png        
+        logo: assets/img/clients/rplus2.png        
 
   contact:
     title: "Contact Us"
