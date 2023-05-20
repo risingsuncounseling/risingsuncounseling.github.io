@@ -1,13 +1,13 @@
 ---
 title: Alpacas
 subtitle: Adorable, aren't they?.
-image: assets/img/portfolio/01-alpaca.jpg
+image: assets/img/portfolio/03-alpaca.jpg
 alt: 
 
 caption:
   title: Alpacas
   subtitle: Alpacas are gentle animals that are generally safe for children and adults to be around. They are a popular choice for animal-assisted therapy programs, where they are used to provide comfort and companionship to people in need.
-  thumbnail: assets/img/portfolio/01-alpaca-thumb.jpg
+  thumbnail: assets/img/portfolio/03-alpaca-thumb.jpg
 ---
 Alpacas can form strong bonds with humans and enjoy being around people. With proper handling and socialization, alpacas can become friendly and affectionate animals that enjoy interacting with humans. They are known to be curious animals and will often approach people to investigate and interact with them.
 
