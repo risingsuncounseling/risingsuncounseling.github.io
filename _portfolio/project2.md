@@ -1,13 +1,13 @@
 ---
 title: Canines
 subtitle: Everyone's best friend.
-image: assets/img/portfolio/02-alpaca.jpg
+image: assets/img/portfolio/dogplaceholder.jpg
 alt:
 
 caption:
   title: Canines
   subtitle: Experience the incredible healing power of dogs in animal-assisted therapy. These gentle and intuitive creatures provide emotional support, companionship, and unconditional love to individuals in therapeutic settings. 
-  thumbnail: assets/img/portfolio/02-alpaca-thumb.jpg
+  thumbnail: assets/img/portfolio/dogplaceholder-thumb.jpg
 ---
 Interacting with trained therapy dogs can reduce stress, anxiety, and depression while promoting a sense of calm and well-being. From hospitals to schools, these furry friends bring comfort, promote social interaction, and even assist in physical rehabilitation. Let the wagging tails and wet noses of therapy dogs create moments of joy and transformation on your therapeutic journey.
 
