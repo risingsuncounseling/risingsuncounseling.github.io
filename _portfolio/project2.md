@@ -1,6 +1,6 @@
 ---
-title: More Alpacas
-subtitle: Check 'em out!
+title: Comforting Canines
+subtitle: Everyone's best friend.
 image: assets/img/portfolio/02-alpaca.jpg
 alt:
 
